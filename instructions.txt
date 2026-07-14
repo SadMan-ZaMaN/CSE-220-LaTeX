@@ -1,0 +1,12 @@
+You only need to know these commands:
+
+  Command		    Purpose
+\section{}		Section heading
+\subsection{}		Subheading
+\textbf{}		Bold text
+\cite{}			Citation
+\ref{}			Reference a figure/table
+\includegraphics{}	Insert image
+\begin{table}		Create a table
+
+That's about 90% of what you'll use.
